@@ -1,5 +1,5 @@
 
-This project contains the source code of our paper ["Real-Time Pavement Crack Detection for Cutting Machines: Enhancing YOLOv5 with Lightweight Modules and Attention Mechanisms"](https://).
+This project contains the key part of the source code of our paper ["Real-Time Pavement Crack Detection for Cutting Machines: Enhancing YOLOv5 with Lightweight Modules and Attention Mechanisms"](https://).
 This project is based on YOLOv5 (https://github.com/ultralytics/yolov5) to achieve real-time pavement crack detection, aiming to provide more accurate crack recognition function for cutting machines. By introducing lightweight modules and attention mechanisms, the performance and real-time performance of the model in the task of pavement crack detection are improved.
 We also propose a new crack datasets, namely [Slit Crack-Data dataset], to facilitate related research in the community.
 
@@ -8,8 +8,8 @@ We also propose a new crack datasets, namely [Slit Crack-Data dataset], to facil
 ## Install
 Python version: Python 3.8 or higher.
 Libraries:
-torch: Used for training and inference of deep learning models. Install it via pip install torch torchvision.
-thop (optional): Used for computing FLOPs. Install it via pip install thop.
+torch: 
+Used for training and inference of deep learning models. Install it via pip install torch torchvision.
 
 ## dataset
 Download datasets from (https://pan.baidu.com/s/1ej42BO6hZ1UDC5KFzrUCjA (d7wg))
