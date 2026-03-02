@@ -61,3 +61,7 @@ python train.py
 # Citation
 
 If you use our code or dataset in your research, please cite our article:["Real-Time Pavement Crack Detection for Cutting Machines: Enhancing YOLOv5 with Lightweight Modules and Attention Mechanisms"](https://).
+
+## License
+
+This project is released under the [MIT License](LICENSE). Please see the [LICENSE](LICENSE) file for details.
